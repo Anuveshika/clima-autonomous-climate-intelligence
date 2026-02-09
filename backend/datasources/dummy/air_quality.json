@@ -1,0 +1,1602 @@
+{
+  "results": [
+    {
+      "location": "Delhi Central",
+      "coordinates": { "latitude": 28.6139, "longitude": 77.2090 },
+      "measurements": [
+        { "parameter": "pm25", "value": 275, "unit": "µg/m³" },
+        { "parameter": "pm10", "value": 340, "unit": "µg/m³" }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": { "latitude": 28.5355, "longitude": 77.3910 },
+      "measurements": [
+        { "parameter": "pm25", "value": 240, "unit": "µg/m³" }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": { "latitude": 28.4595, "longitude": 77.0266 },
+      "measurements": [
+        { "parameter": "pm25", "value": 260, "unit": "µg/m³" }
+      ]
+    },
+
+    {
+      "location": "Faridabad",
+      "coordinates": { "latitude": 28.4089, "longitude": 77.3178 },
+      "measurements": [
+        { "parameter": "pm25", "value": 255, "unit": "µg/m³" }
+      ]
+    },
+
+    {
+      "location": "Ghaziabad",
+      "coordinates": { "latitude": 28.6692, "longitude": 77.4538 },
+      "measurements": [
+        { "parameter": "pm25", "value": 290, "unit": "µg/m³" }
+      ]
+    },
+     {"location":"Delhi","coordinates":{"latitude":28.61,"longitude":77.21},"measurements":[{"parameter":"pm25","value":120},{"parameter":"pm10","value":210}],"timestamp":"T-5"},
+    {"location":"Delhi","coordinates":{"latitude":28.61,"longitude":77.21},"measurements":[{"parameter":"pm25","value":150},{"parameter":"pm10","value":240}],"timestamp":"T-4"},
+    {"location":"Delhi","coordinates":{"latitude":28.61,"longitude":77.21},"measurements":[{"parameter":"pm25","value":180},{"parameter":"pm10","value":270}],"timestamp":"T-3"},
+    {"location":"Delhi","coordinates":{"latitude":28.61,"longitude":77.21},"measurements":[{"parameter":"pm25","value":210},{"parameter":"pm10","value":300}],"timestamp":"T-2"},
+    {"location":"Delhi","coordinates":{"latitude":28.61,"longitude":77.21},"measurements":[{"parameter":"pm25","value":275},{"parameter":"pm10","value":340}],"timestamp":"Now"},
+
+    {"location":"Gurgaon","coordinates":{"latitude":28.45,"longitude":77.02},"measurements":[{"parameter":"pm25","value":95},{"parameter":"pm10","value":180}]},
+    {"location":"Noida","coordinates":{"latitude":28.53,"longitude":77.39},"measurements":[{"parameter":"pm25","value":165},{"parameter":"pm10","value":260}]},
+    {"location":"Faridabad","coordinates":{"latitude":28.40,"longitude":77.31},"measurements":[{"parameter":"pm25","value":190},{"parameter":"pm10","value":280}]},
+    {"location":"Meerut","coordinates":{"latitude":28.98,"longitude":77.70},"measurements":[{"parameter":"pm25","value":145},{"parameter":"pm10","value":220}]},
+    {"location":"Panipat","coordinates":{"latitude":29.39,"longitude":76.97},"measurements":[{"parameter":"pm25","value":170},{"parameter":"pm10","value":250}]},
+
+    {"location":"Rohtak","coordinates":{"latitude":28.89,"longitude":76.58},"measurements":[{"parameter":"pm25","value":160},{"parameter":"pm10","value":240}]},
+    {"location":"Sonipat","coordinates":{"latitude":28.99,"longitude":77.01},"measurements":[{"parameter":"pm25","value":185},{"parameter":"pm10","value":275}]},
+    {"location":"Ghaziabad","coordinates":{"latitude":28.67,"longitude":77.42},"measurements":[{"parameter":"pm25","value":200},{"parameter":"pm10","value":290}]},
+    {"location":"Baghpat","coordinates":{"latitude":28.94,"longitude":77.22},"measurements":[{"parameter":"pm25","value":155},{"parameter":"pm10","value":235}]},
+    {"location":"Muzaffarnagar","coordinates":{"latitude":29.47,"longitude":77.70},"measurements":[{"parameter":"pm25","value":175},{"parameter":"pm10","value":260}]},
+  
+    {
+  "results": [
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.99,
+        "longitude": 77.01
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 283
+        },
+        {
+          "parameter": "pm10",
+          "value": 336
+        }
+      ]
+    },
+    {
+      "location": "Panipat",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 312
+        },
+        {
+          "parameter": "pm10",
+          "value": 396
+        }
+      ]
+    },
+    {
+      "location": "Sonipat",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 314
+        },
+        {
+          "parameter": "pm10",
+          "value": 368
+        }
+      ]
+    },
+    {
+      "location": "Ghaziabad",
+      "coordinates": {
+        "latitude": 28.4,
+        "longitude": 77.31
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 193
+        },
+        {
+          "parameter": "pm10",
+          "value": 236
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.99,
+        "longitude": 77.01
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 305
+        },
+        {
+          "parameter": "pm10",
+          "value": 366
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 197
+        },
+        {
+          "parameter": "pm10",
+          "value": 241
+        }
+      ]
+    },
+    {
+      "location": "Palwal",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 348
+        },
+        {
+          "parameter": "pm10",
+          "value": 392
+        }
+      ]
+    },
+    {
+      "location": "Delhi",
+      "coordinates": {
+        "latitude": 28.67,
+        "longitude": 77.42
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 248
+        },
+        {
+          "parameter": "pm10",
+          "value": 302
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.14,
+        "longitude": 77.33
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 272
+        },
+        {
+          "parameter": "pm10",
+          "value": 347
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.4,
+        "longitude": 77.31
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 252
+        },
+        {
+          "parameter": "pm10",
+          "value": 307
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 336
+        },
+        {
+          "parameter": "pm10",
+          "value": 416
+        }
+      ]
+    },
+    {
+      "location": "Sonipat",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 319
+        },
+        {
+          "parameter": "pm10",
+          "value": 415
+        }
+      ]
+    },
+    {
+      "location": "Bulandshahr",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 263
+        },
+        {
+          "parameter": "pm10",
+          "value": 352
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 340
+        },
+        {
+          "parameter": "pm10",
+          "value": 392
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.4,
+        "longitude": 77.31
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 238
+        },
+        {
+          "parameter": "pm10",
+          "value": 313
+        }
+      ]
+    },
+    {
+      "location": "Bulandshahr",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 263
+        },
+        {
+          "parameter": "pm10",
+          "value": 337
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 29.47,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 290
+        },
+        {
+          "parameter": "pm10",
+          "value": 375
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 206
+        },
+        {
+          "parameter": "pm10",
+          "value": 268
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 227
+        },
+        {
+          "parameter": "pm10",
+          "value": 290
+        }
+      ]
+    },
+    {
+      "location": "Delhi",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 298
+        },
+        {
+          "parameter": "pm10",
+          "value": 346
+        }
+      ]
+    },
+    {
+      "location": "Ghaziabad",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 216
+        },
+        {
+          "parameter": "pm10",
+          "value": 280
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 242
+        },
+        {
+          "parameter": "pm10",
+          "value": 333
+        }
+      ]
+    },
+    {
+      "location": "Bulandshahr",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 218
+        },
+        {
+          "parameter": "pm10",
+          "value": 272
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 343
+        },
+        {
+          "parameter": "pm10",
+          "value": 440
+        }
+      ]
+    },
+    {
+      "location": "Rohtak",
+      "coordinates": {
+        "latitude": 28.98,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 318
+        },
+        {
+          "parameter": "pm10",
+          "value": 376
+        }
+      ]
+    },
+    {
+      "location": "Delhi",
+      "coordinates": {
+        "latitude": 28.14,
+        "longitude": 77.33
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 219
+        },
+        {
+          "parameter": "pm10",
+          "value": 274
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 28.89,
+        "longitude": 76.58
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 236
+        },
+        {
+          "parameter": "pm10",
+          "value": 306
+        }
+      ]
+    },
+    {
+      "location": "Sonipat",
+      "coordinates": {
+        "latitude": 29.37,
+        "longitude": 78.13
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 224
+        },
+        {
+          "parameter": "pm10",
+          "value": 289
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 281
+        },
+        {
+          "parameter": "pm10",
+          "value": 376
+        }
+      ]
+    },
+    {
+      "location": "Faridabad",
+      "coordinates": {
+        "latitude": 28.99,
+        "longitude": 77.01
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 266
+        },
+        {
+          "parameter": "pm10",
+          "value": 334
+        }
+      ]
+    }
+  ]
+},
+{
+  "results": [
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 125
+        },
+        {
+          "parameter": "pm10",
+          "value": 225
+        }
+      ]
+    },
+    {
+      "location": "Panipat",
+      "coordinates": {
+        "latitude": 29.47,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 66
+        },
+        {
+          "parameter": "pm10",
+          "value": 156
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.98,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 144
+        },
+        {
+          "parameter": "pm10",
+          "value": 204
+        }
+      ]
+    },
+    {
+      "location": "Bijnor",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 129
+        },
+        {
+          "parameter": "pm10",
+          "value": 209
+        }
+      ]
+    },
+    {
+      "location": "Panipat",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 111
+        },
+        {
+          "parameter": "pm10",
+          "value": 190
+        }
+      ]
+    },
+    {
+      "location": "Delhi",
+      "coordinates": {
+        "latitude": 28.4,
+        "longitude": 77.31
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 94
+        },
+        {
+          "parameter": "pm10",
+          "value": 184
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 122
+        },
+        {
+          "parameter": "pm10",
+          "value": 199
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 71
+        },
+        {
+          "parameter": "pm10",
+          "value": 136
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 81
+        },
+        {
+          "parameter": "pm10",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 137
+        },
+        {
+          "parameter": "pm10",
+          "value": 178
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 79
+        },
+        {
+          "parameter": "pm10",
+          "value": 154
+        }
+      ]
+    },
+    {
+      "location": "Palwal",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 146
+        },
+        {
+          "parameter": "pm10",
+          "value": 215
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.4,
+        "longitude": 77.31
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 145
+        },
+        {
+          "parameter": "pm10",
+          "value": 218
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 69
+        },
+        {
+          "parameter": "pm10",
+          "value": 147
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 29.37,
+        "longitude": 78.13
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 111
+        },
+        {
+          "parameter": "pm10",
+          "value": 209
+        }
+      ]
+    },
+    {
+      "location": "Faridabad",
+      "coordinates": {
+        "latitude": 28.41,
+        "longitude": 77.85
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 63
+        },
+        {
+          "parameter": "pm10",
+          "value": 122
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.14,
+        "longitude": 77.33
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 115
+        },
+        {
+          "parameter": "pm10",
+          "value": 194
+        }
+      ]
+    },
+    {
+      "location": "Palwal",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 120
+        },
+        {
+          "parameter": "pm10",
+          "value": 202
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 128
+        },
+        {
+          "parameter": "pm10",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "location": "Sonipat",
+      "coordinates": {
+        "latitude": 29.47,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 86
+        },
+        {
+          "parameter": "pm10",
+          "value": 144
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 28.98,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 103
+        },
+        {
+          "parameter": "pm10",
+          "value": 157
+        }
+      ]
+    },
+    {
+      "location": "Panipat",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 67
+        },
+        {
+          "parameter": "pm10",
+          "value": 112
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 115
+        },
+        {
+          "parameter": "pm10",
+          "value": 159
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 81
+        },
+        {
+          "parameter": "pm10",
+          "value": 143
+        }
+      ]
+    },
+    {
+      "location": "Ghaziabad",
+      "coordinates": {
+        "latitude": 28.4,
+        "longitude": 77.31
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 89
+        },
+        {
+          "parameter": "pm10",
+          "value": 175
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 121
+        },
+        {
+          "parameter": "pm10",
+          "value": 196
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 95
+        },
+        {
+          "parameter": "pm10",
+          "value": 193
+        }
+      ]
+    },
+    {
+      "location": "Faridabad",
+      "coordinates": {
+        "latitude": 29.47,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 130
+        },
+        {
+          "parameter": "pm10",
+          "value": 190
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 29.37,
+        "longitude": 78.13
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 125
+        },
+        {
+          "parameter": "pm10",
+          "value": 166
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 28.89,
+        "longitude": 76.58
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 116
+        },
+        {
+          "parameter": "pm10",
+          "value": 203
+        }
+      ]
+    }
+  ]
+},{
+  "results": [
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.67,
+        "longitude": 77.42
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 173
+        },
+        {
+          "parameter": "pm10",
+          "value": 247
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 28.14,
+        "longitude": 77.33
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 125
+        },
+        {
+          "parameter": "pm10",
+          "value": 224
+        }
+      ]
+    },
+    {
+      "location": "Panipat",
+      "coordinates": {
+        "latitude": 28.94,
+        "longitude": 77.22
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 207
+        },
+        {
+          "parameter": "pm10",
+          "value": 277
+        }
+      ]
+    },
+    {
+      "location": "Rohtak",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 121
+        },
+        {
+          "parameter": "pm10",
+          "value": 211
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 215
+        },
+        {
+          "parameter": "pm10",
+          "value": 315
+        }
+      ]
+    },
+    {
+      "location": "Panipat",
+      "coordinates": {
+        "latitude": 28.41,
+        "longitude": 77.85
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 204
+        },
+        {
+          "parameter": "pm10",
+          "value": 280
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 29.47,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 195
+        },
+        {
+          "parameter": "pm10",
+          "value": 282
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 133
+        },
+        {
+          "parameter": "pm10",
+          "value": 177
+        }
+      ]
+    },
+    {
+      "location": "Bijnor",
+      "coordinates": {
+        "latitude": 28.67,
+        "longitude": 77.42
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 131
+        },
+        {
+          "parameter": "pm10",
+          "value": 230
+        }
+      ]
+    },
+    {
+      "location": "Sonipat",
+      "coordinates": {
+        "latitude": 28.89,
+        "longitude": 76.58
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 175
+        },
+        {
+          "parameter": "pm10",
+          "value": 234
+        }
+      ]
+    },
+    {
+      "location": "Gurgaon",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 140
+        },
+        {
+          "parameter": "pm10",
+          "value": 188
+        }
+      ]
+    },
+    {
+      "location": "Meerut",
+      "coordinates": {
+        "latitude": 29.39,
+        "longitude": 76.97
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 218
+        },
+        {
+          "parameter": "pm10",
+          "value": 308
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 155
+        },
+        {
+          "parameter": "pm10",
+          "value": 211
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.41,
+        "longitude": 77.85
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 154
+        },
+        {
+          "parameter": "pm10",
+          "value": 213
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.41,
+        "longitude": 77.85
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 167
+        },
+        {
+          "parameter": "pm10",
+          "value": 219
+        }
+      ]
+    },
+    {
+      "location": "Faridabad",
+      "coordinates": {
+        "latitude": 28.67,
+        "longitude": 77.42
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 216
+        },
+        {
+          "parameter": "pm10",
+          "value": 260
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 124
+        },
+        {
+          "parameter": "pm10",
+          "value": 206
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.41,
+        "longitude": 77.85
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 160
+        },
+        {
+          "parameter": "pm10",
+          "value": 205
+        }
+      ]
+    },
+    {
+      "location": "Faridabad",
+      "coordinates": {
+        "latitude": 29.37,
+        "longitude": 78.13
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 217
+        },
+        {
+          "parameter": "pm10",
+          "value": 290
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 158
+        },
+        {
+          "parameter": "pm10",
+          "value": 250
+        }
+      ]
+    },
+    {
+      "location": "Ghaziabad",
+      "coordinates": {
+        "latitude": 27.49,
+        "longitude": 77.67
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 127
+        },
+        {
+          "parameter": "pm10",
+          "value": 194
+        }
+      ]
+    },
+    {
+      "location": "Bijnor",
+      "coordinates": {
+        "latitude": 28.53,
+        "longitude": 77.39
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 191
+        },
+        {
+          "parameter": "pm10",
+          "value": 280
+        }
+      ]
+    },
+    {
+      "location": "Baghpat",
+      "coordinates": {
+        "latitude": 28.14,
+        "longitude": 77.33
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 180
+        },
+        {
+          "parameter": "pm10",
+          "value": 265
+        }
+      ]
+    },
+    {
+      "location": "Bulandshahr",
+      "coordinates": {
+        "latitude": 29.47,
+        "longitude": 77.7
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 129
+        },
+        {
+          "parameter": "pm10",
+          "value": 224
+        }
+      ]
+    },
+    {
+      "location": "Rohtak",
+      "coordinates": {
+        "latitude": 28.99,
+        "longitude": 77.01
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 212
+        },
+        {
+          "parameter": "pm10",
+          "value": 292
+        }
+      ]
+    },
+    {
+      "location": "Faridabad",
+      "coordinates": {
+        "latitude": 28.99,
+        "longitude": 77.01
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 212
+        },
+        {
+          "parameter": "pm10",
+          "value": 264
+        }
+      ]
+    },
+    {
+      "location": "Muzaffarnagar",
+      "coordinates": {
+        "latitude": 28.89,
+        "longitude": 76.58
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 151
+        },
+        {
+          "parameter": "pm10",
+          "value": 198
+        }
+      ]
+    },
+    {
+      "location": "Noida",
+      "coordinates": {
+        "latitude": 28.99,
+        "longitude": 77.01
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 206
+        },
+        {
+          "parameter": "pm10",
+          "value": 298
+        }
+      ]
+    },
+    {
+      "location": "Mathura",
+      "coordinates": {
+        "latitude": 28.45,
+        "longitude": 77.02
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 189
+        },
+        {
+          "parameter": "pm10",
+          "value": 234
+        }
+      ]
+    },
+    {
+      "location": "Bulandshahr",
+      "coordinates": {
+        "latitude": 29.37,
+        "longitude": 78.13
+      },
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 131
+        },
+        {
+          "parameter": "pm10",
+          "value": 178
+        }
+      ]
+    }
+  ]
+}
+  ]
+}
+

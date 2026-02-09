@@ -1,0 +1,95 @@
+body {
+ background:#0e1621;
+ color:#ecf0f1;
+ font-family:Segoe UI;
+ margin:30px;
+}
+
+h1 { color:#2ecc71; }
+
+h2 { color:#58a6ff; }
+
+.header{
+ display:flex;
+ justify-content:space-between;
+ align-items:center;
+ margin-bottom:25px;
+}
+
+#status{
+ color:#2ecc71;
+ font-weight:bold;
+}
+
+.cards {
+ display:grid;
+ grid-template-columns:repeat(3,1fr);
+ gap:20px;
+}
+
+.card {
+ background:#161b22;
+ padding:20px;
+ border-radius:12px;
+ box-shadow:0 0 12px rgba(0,0,0,.4);
+ font-size:18px;
+}
+
+.row{
+ display:grid;
+ grid-template-columns:1fr 1fr;
+ gap:25px;
+ margin-top:30px;
+}
+
+.panel{
+ background:#161b22;
+ padding:15px;
+ border-radius:12px;
+}
+
+#graph{
+ height:400px;
+ background:#161b22;
+ border-radius:12px;
+}
+
+#map{
+ height:350px;
+ border-radius:12px;
+}
+
+canvas{
+ max-height:250px;
+ background:#161b22;
+ border-radius:12px;
+}
+
+.timeline {
+ background:#161b22;
+ padding:12px;
+ margin:10px 0;
+ border-left:4px solid #2ecc71;
+}
+
+#history div{
+ background:#161b22;
+ padding:8px;
+ margin:6px 0;
+ border-left:3px solid #58a6ff;
+}
+
+/* 🔴 Blinking Critical Badge */
+.critical {
+ color:#ff4757 !important;
+ font-weight:bold;
+ animation: blink 1s infinite;
+}
+
+@keyframes blink {
+ 0% {opacity:1;}
+ 50% {opacity:.3;}
+ 100% {opacity:1;}
+}
+#graph{height:500px;}
+#map{height:420px;}

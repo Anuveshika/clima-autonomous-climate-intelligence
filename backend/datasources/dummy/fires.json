@@ -1,0 +1,443 @@
+[
+  { "latitude": 29.10, "longitude": 76.80, "brightness": 345, "acq_date": "2026-02-01" },
+  { "latitude": 29.12, "longitude": 76.82, "brightness": 350, "acq_date": "2026-02-01" },
+  { "latitude": 29.15, "longitude": 76.78, "brightness": 342, "acq_date": "2026-02-01" },
+  { "latitude": 29.20, "longitude": 76.85, "brightness": 360, "acq_date": "2026-02-01" },
+  { "latitude": 29.18, "longitude": 76.75, "brightness": 355, "acq_date": "2026-02-01" },
+  {"latitude":29.10,"longitude":76.80,"brightness":340,"confidence":0.92,"type":"agricultural"},
+ {"latitude":29.25,"longitude":76.65,"brightness":310,"confidence":0.85,"type":"agricultural"},
+ {"latitude":28.95,"longitude":76.90,"brightness":360,"confidence":0.94,"type":"crop"},
+ {"latitude":30.10,"longitude":75.90,"brightness":290,"confidence":0.80,"type":"grass"},
+ {"latitude":28.80,"longitude":76.50,"brightness":270,"confidence":0.75,"type":"agricultural"},
+ {"latitude":29.40,"longitude":77.10,"brightness":330,"confidence":0.88,"type":"crop"},
+ {"latitude":29.55,"longitude":76.75,"brightness":350,"confidence":0.93,"type":"forest_edge"},
+ {"latitude":28.70,"longitude":76.40,"brightness":260,"confidence":0.70,"type":"grass"},
+ {"latitude":29.00,"longitude":77.20,"brightness":315,"confidence":0.86,"type":"agricultural"},
+ {"latitude":29.20,"longitude":76.95,"brightness":345,"confidence":0.91,"type":"crop"},
+ {"latitude":28.85,"longitude":76.60,"brightness":280,"confidence":0.77,"type":"agricultural"},
+ {"latitude":29.30,"longitude":77.05,"brightness":325,"confidence":0.89,"type":"crop"},
+ {"latitude":29.15,"longitude":76.70,"brightness":300,"confidence":0.83,"type":"grass"},
+ {"latitude":28.90,"longitude":77.00,"brightness":355,"confidence":0.95,"type":"agricultural"},
+ {"latitude":29.45,"longitude":76.85,"brightness":340,"confidence":0.92,"type":"crop"},
+  {
+    "latitude": 29.171991013547014,
+    "longitude": 77.07249881542504,
+    "brightness": 366,
+    "confidence": 0.87,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.886072370494357,
+    "longitude": 77.11673180215429,
+    "brightness": 324,
+    "confidence": 0.72,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.398258689423194,
+    "longitude": 76.9305232139755,
+    "brightness": 295,
+    "confidence": 0.73,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.20337515053409,
+    "longitude": 77.3354886181086,
+    "brightness": 296,
+    "confidence": 0.93,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.046319758476287,
+    "longitude": 76.95704069981558,
+    "brightness": 379,
+    "confidence": 0.76,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.091559640595943,
+    "longitude": 77.3525598101858,
+    "brightness": 331,
+    "confidence": 0.78,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 27.290362180237118,
+    "longitude": 77.48240862060462,
+    "brightness": 259,
+    "confidence": 0.76,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.71396321786408,
+    "longitude": 77.3442675050766,
+    "brightness": 286,
+    "confidence": 0.87,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.234004296659005,
+    "longitude": 77.34276512762264,
+    "brightness": 295,
+    "confidence": 0.72,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.51917971460114,
+    "longitude": 77.26427150794015,
+    "brightness": 342,
+    "confidence": 0.78,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.717000304369254,
+    "longitude": 77.48221254090183,
+    "brightness": 287,
+    "confidence": 0.86,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.274323369570254,
+    "longitude": 77.21765230853094,
+    "brightness": 311,
+    "confidence": 0.87,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.41468153336411,
+    "longitude": 77.3800231564223,
+    "brightness": 282,
+    "confidence": 0.88,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 27.528766980427854,
+    "longitude": 77.53291633230852,
+    "brightness": 293,
+    "confidence": 0.89,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.32465097071387,
+    "longitude": 77.19232717391357,
+    "brightness": 302,
+    "confidence": 0.85,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.41426122008955,
+    "longitude": 77.0868127001686,
+    "brightness": 374,
+    "confidence": 0.7,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.32260432410127,
+    "longitude": 77.86301386776837,
+    "brightness": 324,
+    "confidence": 0.8,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.501836843746503,
+    "longitude": 76.97201147724606,
+    "brightness": 355,
+    "confidence": 0.77,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.56905240066678,
+    "longitude": 76.83358182625835,
+    "brightness": 364,
+    "confidence": 0.85,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.30222978929705,
+    "longitude": 77.00632959110955,
+    "brightness": 280,
+    "confidence": 0.77,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.457296125584758,
+    "longitude": 77.31319750132675,
+    "brightness": 294,
+    "confidence": 0.71,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.433192787989018,
+    "longitude": 76.98050950712943,
+    "brightness": 256,
+    "confidence": 0.73,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.39724432121382,
+    "longitude": 76.87169645670954,
+    "brightness": 279,
+    "confidence": 0.85,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.375046165935274,
+    "longitude": 77.27184827820226,
+    "brightness": 331,
+    "confidence": 0.92,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.074821395986252,
+    "longitude": 77.78363236972483,
+    "brightness": 373,
+    "confidence": 0.74,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.253467791064672,
+    "longitude": 77.51481433737334,
+    "brightness": 286,
+    "confidence": 0.83,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.851323684643656,
+    "longitude": 76.56448695545961,
+    "brightness": 283,
+    "confidence": 0.74,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.44637524808782,
+    "longitude": 78.26021937091186,
+    "brightness": 355,
+    "confidence": 0.75,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.40580546760491,
+    "longitude": 77.0587953272366,
+    "brightness": 335,
+    "confidence": 0.72,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.076590674599846,
+    "longitude": 77.10014239567482,
+    "brightness": 267,
+    "confidence": 0.88,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.641550192607827,
+    "longitude": 77.43091785825402,
+    "brightness": 252,
+    "confidence": 0.7,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.294490411248326,
+    "longitude": 77.23338193733859,
+    "brightness": 282,
+    "confidence": 0.76,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.771698913391443,
+    "longitude": 77.16932209920988,
+    "brightness": 263,
+    "confidence": 0.72,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.594292565763222,
+    "longitude": 77.23795484614917,
+    "brightness": 376,
+    "confidence": 0.81,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.47278036184502,
+    "longitude": 77.26910652627127,
+    "brightness": 333,
+    "confidence": 0.87,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.321508555096763,
+    "longitude": 78.01363838764462,
+    "brightness": 308,
+    "confidence": 0.83,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.51535430127137,
+    "longitude": 77.87560088831029,
+    "brightness": 273,
+    "confidence": 0.78,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.360718610866773,
+    "longitude": 77.3058580295267,
+    "brightness": 349,
+    "confidence": 0.78,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.85049361690481,
+    "longitude": 77.45679309892226,
+    "brightness": 323,
+    "confidence": 0.77,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.969620368863488,
+    "longitude": 76.710311575767,
+    "brightness": 300,
+    "confidence": 0.76,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.448842452901143,
+    "longitude": 77.08867336330513,
+    "brightness": 327,
+    "confidence": 0.78,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.42161393332741,
+    "longitude": 76.9057886524037,
+    "brightness": 312,
+    "confidence": 0.86,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 27.667007365887873,
+    "longitude": 77.6601700537721,
+    "brightness": 253,
+    "confidence": 0.86,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.433548071374105,
+    "longitude": 78.0204901894282,
+    "brightness": 332,
+    "confidence": 0.83,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.392601718856376,
+    "longitude": 77.93112972595692,
+    "brightness": 366,
+    "confidence": 0.79,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.720023623747412,
+    "longitude": 77.5288128954285,
+    "brightness": 328,
+    "confidence": 0.83,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.512218467296314,
+    "longitude": 77.38821735024024,
+    "brightness": 290,
+    "confidence": 0.81,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.543294943327155,
+    "longitude": 77.86945711910174,
+    "brightness": 335,
+    "confidence": 0.85,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.44439559621345,
+    "longitude": 78.0813749761305,
+    "brightness": 286,
+    "confidence": 0.71,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 27.536247666111635,
+    "longitude": 77.73713609419508,
+    "brightness": 258,
+    "confidence": 0.82,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 27.411141411265227,
+    "longitude": 77.83900570156923,
+    "brightness": 255,
+    "confidence": 0.89,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.427948145238705,
+    "longitude": 77.2556239732419,
+    "brightness": 290,
+    "confidence": 0.74,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.109178111078517,
+    "longitude": 77.41951472738782,
+    "brightness": 272,
+    "confidence": 0.94,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.331673181054644,
+    "longitude": 77.62001767061012,
+    "brightness": 326,
+    "confidence": 0.78,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.820734913028534,
+    "longitude": 76.84087119839144,
+    "brightness": 261,
+    "confidence": 0.95,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.120280156269523,
+    "longitude": 77.19551984292123,
+    "brightness": 278,
+    "confidence": 0.93,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.923108345036233,
+    "longitude": 76.70143349714463,
+    "brightness": 251,
+    "confidence": 0.94,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.976951863247297,
+    "longitude": 76.91527399073095,
+    "brightness": 279,
+    "confidence": 0.94,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 28.44758549083949,
+    "longitude": 76.94418071375566,
+    "brightness": 273,
+    "confidence": 0.81,
+    "type": "agricultural"
+  },
+  {
+    "latitude": 29.517052191839472,
+    "longitude": 78.27570791802582,
+    "brightness": 356,
+    "confidence": 0.93,
+    "type": "agricultural"
+  }
+
+]

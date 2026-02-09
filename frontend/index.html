@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CLIMA Dashboard</title>
+
+<link rel="stylesheet" href="styles.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+</head>
+
+<body>
+
+<div class="header">
+  <h1>🌍 CLIMA — Climate Intelligence Command Center</h1>
+  <div id="status">🟢 Live</div>
+</div>
+
+<div class="cards">
+  <div class="card">Incident<br><span id="incident"></span></div>
+  <div class="card">Severity<br><span id="severity"></span></div>
+  <div class="card">Confidence<br><span id="confidence"></span></div>
+</div>
+
+<div class="row">
+  <div class="panel">
+    <h2>Causal Graph</h2>
+    <div id="graph"></div>
+  </div>
+
+  <div class="panel">
+    <h2>AQI Trend</h2>
+    <canvas id="aqiChart"></canvas>
+  </div>
+</div>
+
+<div class="row">
+  <div class="panel">
+    <h2>Hotspot Map</h2>
+    <div id="map"></div>
+  </div>
+
+  <div class="panel">
+    <h2>Response Plan</h2>
+    <div id="timeline"></div>
+
+    <h2 style="margin-top:25px">Incident History</h2>
+    <div id="history"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
